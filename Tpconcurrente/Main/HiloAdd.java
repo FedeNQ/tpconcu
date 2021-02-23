@@ -1,7 +1,5 @@
 package Main;
 
-import GranularidadFina.ListaGF;
-import GranularidadGruesa.ListaGG;
 import java.util.Random;
 
 public class HiloAdd implements Runnable {

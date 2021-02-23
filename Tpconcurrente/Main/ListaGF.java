@@ -1,5 +1,4 @@
-package GranularidadFina;
-import Main.Lista;
+package Main;
 
 public class ListaGF extends Lista{
 	private NodoGF head;

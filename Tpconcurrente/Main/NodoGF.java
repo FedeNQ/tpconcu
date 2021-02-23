@@ -1,5 +1,4 @@
-package GranularidadFina;
-import Main.Nodo;
+package Main;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class NodoGF extends Nodo {

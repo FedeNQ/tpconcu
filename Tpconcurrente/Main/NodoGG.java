@@ -1,5 +1,4 @@
-package GranularidadGruesa;
-import Main.Nodo;
+package Main;
 
 public class NodoGG extends Nodo{
 	// El nodo de granularidad gruesa es igual a la clase base Nodo

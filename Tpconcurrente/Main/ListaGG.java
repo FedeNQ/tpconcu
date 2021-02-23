@@ -1,5 +1,4 @@
-package GranularidadGruesa;
-import Main.Lista;
+package Main;
 
 public class ListaGG extends Lista{
 	private NodoGG head;
